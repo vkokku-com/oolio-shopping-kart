@@ -34,7 +34,7 @@ A modern, responsive food ordering web application built with React and Vite. Th
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vkokku-com/oolio-shopping-kart.git
    cd oolio-shopping-kart
    ```
 
