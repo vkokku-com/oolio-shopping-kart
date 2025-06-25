@@ -35,7 +35,7 @@ A modern, responsive food ordering web application built with React and Vite. Th
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd kart-challenge
+   cd oolio-shopping-kart
    ```
 
 2. **Install dependencies**
